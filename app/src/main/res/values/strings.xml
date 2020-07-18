@@ -492,13 +492,13 @@
     <string name="ui">UI</string>
     <string name="dark_mode_def_value">MODE_NIGHT_FOLLOW_SYSTEM</string>
 
-    <string-array name="mode_entries"  translatable="false">
+    <string-array name="mode_entries"  translatable="true">
         <item>Light</item>
         <item>Dark</item>
         <item>System Default</item>
     </string-array>
 
-    <string-array name="mode_values"  translatable="false">
+    <string-array name="mode_values"  translatable="true">
         <item>light</item>
         <item>dark</item>
         <item>default</item>
@@ -540,6 +540,7 @@
     </string-array>
 
     <string name="language_type" translatable="false">language_type</string>
+    <string name="dark_mode" translatable="false">dark_mode</string>
     <string name="total_saving_balance">Total Savings Balance</string>
     <string name="total_loan_balance">Total Loan Balance</string>
     <string name="total_loan_savings_description">Above Loan and Savings account balance are
